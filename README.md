@@ -1,1 +1,2 @@
-# project21-scc
+# p5.play-boilerplate
+Boiler plate for p5.play
